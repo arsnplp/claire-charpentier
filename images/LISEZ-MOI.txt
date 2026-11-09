@@ -1,0 +1,27 @@
+IMAGES DU SITE CLAIRE CHARPENTIER
+Déposez les photos dans ce dossier avec EXACTEMENT ces noms (.jpg).
+Elles remplacent automatiquement les emplacements art déco, rien d'autre à toucher.
+Format conseillé : JPG, 1600 px max sur le grand côté (2400 px pour expand.jpg), < 400 Ko.
+
+HERO
+  hero-arche.jpg      portrait vertical (chien), format arche ~ 3/4
+  hero-rond-1.jpg     carré, chat
+  hero-rond-2.jpg     carré, détail mains / soin
+IMAGE PLEIN ÉCRAN (scroll)
+  expand.jpg          paysage, séance en cours (s'affiche en plein écran)
+MANIFESTE (petites pastilles dans le texte)
+  manifeste-chien.jpg, manifeste-chat.jpg    paysage, petit
+PARCOURS (frise horizontale)
+  parcours-2012.jpg, parcours-2014.jpg, parcours-2015.jpg, parcours-2016.jpg,
+  parcours-2019.jpg, parcours-2021.jpg, parcours-2025.jpg
+UNIVERS ART DÉCO
+  univers-centre.jpg (vertical, arche), univers-1.jpg, univers-3.jpg (carrés, quarts de cercle),
+  univers-2.jpg, univers-4.jpg (carrés, ronds)
+LE CABINET (bento)
+  cabinet-1.jpg (vertical), cabinet-chat.jpg (carré), cabinet-large.jpg (paysage)
+QUAND CONSULTER (image qui suit la souris)
+  soin-1.jpg à soin-6.jpg   verticaux (boiterie, chirurgie, chiot/chaton, sportif, senior, comportement)
+SÉANCE (cartes empilées)
+  seance-1.jpg à seance-4.jpg   paysage ou carré
+FORMATIONS
+  formation.jpg (vertical), claire-portrait.jpg (carré)
